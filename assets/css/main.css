@@ -1,0 +1,14 @@
+@font-face {
+    font-family: vcr;
+    src: url(../../_font/VCR_OSD_MONO_1.001.ttf);
+}
+
+:root{
+    /*Farveskema*/
+    --white: #ffffff;
+    --black: #000000;
+}
+
+*{
+    margin: 0;
+}
