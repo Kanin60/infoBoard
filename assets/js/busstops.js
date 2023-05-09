@@ -40,13 +40,22 @@ function buildBusData(data){
     ; (async () => {
         // console.log("busdata modtaget",{data});
 
-        const accData = []
         let dataFive = data.splice(0,6);
         console.log('her er five',dataFive);
-        dataFive.map((data) => {
-            let Bus = `${data.name.replace(/^Bybus\s/, '')} ${data.time}`
-            console.log('Navn på bus',Bus);
-            });
-        })();
 
-        };
+        dataFive.map((data) => {
+            // console.log(data);
+            buildBusCard(data);
+        });
+
+        function buildBusCard(data){
+            console.log('HER',data);
+            let busName = data.name.replace(/^Bybus\s/, '');
+            const bustider = document.getElementById("div5");
+            bustider.innerHTML =`<h2>Bustider: </h2>`;
+            const bus = document.getElementById("bus");
+            document.querySelector('bus').innerHTML = `<p>${busName} ${data.direction} ${data.time}</p>`;
+        }
+    })();
+
+        };        
