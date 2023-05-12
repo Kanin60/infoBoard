@@ -51,7 +51,7 @@ function buildBusData(data){
             const direction = bus.direction;
             const time = bus.time;
             const busDataParagraph = document.createElement('p');
-            
+            // busDataParagraph.classList.add('busText');
             busDataParagraph.textContent = `${busName} ${direction} ${time}`;
         
             busDataContainer.appendChild(busDataParagraph);

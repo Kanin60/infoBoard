@@ -1,0 +1,34 @@
+@font-face {
+    font-family: vcr;
+    src: url(../../_font/VCR_OSD_MONO_1.001.ttf);
+}
+
+
+/*Container til bustider*/
+#div5{
+    background-image: url(../images/InfoskærmLayout/BustiderContainer/Container/BUSTIDER@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 140%;
+    width: ;
+    position: relative;
+}
+/*Overskriften til bustider*/
+#bus{
+    font-family: "vcr";
+    font-weight: 300;
+    font-size: 2.5em;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+/*Teksten til bus tiderne*/
+#busDataContainer p{
+    margin-top: 5%;
+    font-family: "vcr";
+}
+/*Billedet af bussen*/
+#Bussen{
+    position: absolute;
+    top: 50%;
+    width: 24%;
+}

@@ -2,6 +2,10 @@
     font-family: vcr;
     src: url(../../_font/VCR_OSD_MONO_1.001.ttf);
 }
+@font-face {
+    font-family: skippy;
+    src: url(../../_font/skippy_sharpie.ttf);
+}
 
 :root{
     /*Farveskema*/
