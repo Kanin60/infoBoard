@@ -50,3 +50,4 @@ const kantineApi = "https://infoskaerm.techcollege.dk/umbraco/api/content/getcan
         
     }
 }
+

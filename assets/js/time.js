@@ -5,7 +5,7 @@ function clock(){
             minutes = (date.getMinutes() < 10) ? '0' + date.getMinutes() : date.getMinutes();
             date = (date.toLocaleDateString());
     document.getElementById('time').innerHTML = hours + ':' + minutes ;
-    document.getElementById('date').innerHTML = date.replace(/\./g, "/"); 
+    document.getElementById('date').innerHTML = date.replace(/\./g, "/"); // (replace zamenit na drugoy kod )
 }
 
 setInterval(clock, 1000);
