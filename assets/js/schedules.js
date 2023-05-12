@@ -30,7 +30,7 @@ const scheduleApi = "../../_localeAPI/schedules.json";//JSON_FIL til TEST
         //filtrere uddannelser så der kun er fra medie-gangen og brobyggere
         const specificEducation = data.filter( obj => obj.Education === "Mediegrafiker" || obj.Education === "Grafisk teknik." || obj.Education === "Webudvikler" || obj.Education === "FGU med EUD.");
         // console.log("lulu", specificEducation);
-        let dataFirst = specificEducation.splice(0,15);
+        let dataFirst = specificEducation.splice(0,9);
         // console.log('U R?',dataFirst);
 
 
