@@ -6,67 +6,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Info-Board</title>
     <link rel="stylesheet" href="./assets/css/main.css">
-    <script src="./assets/js/main.js" defer type="module"></script>
+    <script src="./assets/js/busstops.js" defer></script>
+    <script src="./assets/js/time.js" defer></script>
+    <script src="./assets/js/schedules.js" defer></script>
+    <script src="./assets/js/_TEST.js" defer></script>
+    <script src="./assets/js/kantine.js" defer></script>
 <body>
-    <div class="main">
-        <div id="div1">
-            <h1>overskrift</h1>
+    <div id="main" class="main">
+        <div id="div1" style="padding: 3px;">
+            <img src="./assets/images/techcollege-transparent-logo-sort.png" alt="logo" style="width: 100%;">
         </div>
         <div id="div2">
-            <h2>klokken er</h2>
+            <h2>Klokken er</h2>
             <h3 id="time">time</h3>
             <h3 id="date">date</h3>
         </div>
         <div id="div3">
             <h2>Skema</h2>
-            <div>
-                <img src="" alt="">
-                <div><span>text </span><span>text </span><span>text </span><span>text </span></div>
-                <img src="" alt="">
-                <div><span>text </span><span>text </span><span>text </span><span>text </span></div>
-                <img src="" alt="">
-                <div><span>text </span><span>text </span><span>text </span><span>text</span></div>
-                <img src="" alt="">
-                <div><span>text </span><span>text </span><span>text </span><span>text</span></div>
-                <img src="" alt="">
-                <div><span> text</span><span> text</span><span> text</span><span> text</span></div>
+            <div id="skema">
             </div>
         </div>
         <div id="div4">
-            <h2>Menu</h2>
-            <div>
-                <h3>Mandag</h3>
-                <p>Dagensret</p>
-                <h5>Pris</h5>
-            </div>
-            <div>
-                <h3>Tirsdag</h3>
-                <p>Dagensret</p>
-                <h5>Pris</h5>
-            </div>
-            <div>
-                <h3>Onsdag</h3>
-                <p>Dagensret</p>
-                <h5>Pris</h5>
-            </div>
-            <div>
-                <h3>Torsdag</h3>
-                <p>Dagensret</p>
-                <h5>Pris</h5>
-            </div>
+            
         </div>
         <div id="div5">
-            <h2>Bustide</h2>
-            <h3>1</h3>
-            <p>tid</p>
-            <h3>2</h3>
-            <p>tid</p>
-            <h3>3</h3>
-            <p>tid</p>
-            <h3>4</h3>
-            <p>tid</p>
-            <h3>5</h3>
-            <p>tid</p>
+            <h2 id="bus">Bustider:</h2>
+            <div id="busDataContainer"></div>
+            
         </div>
         <div id="div6">
             <h3>Wifi Info</h3>

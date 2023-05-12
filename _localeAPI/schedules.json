@@ -1,1 +1,1243 @@
-{"@odata.context":"http://iws.itcn.dk/techcollege/$metadata#Schedules","value":[{"Team":"ggr010123","StartDate":"2023-05-08T08:15:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-08T13:00:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-08T14:00:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-09T13:00:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-09T14:00:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-10T08:15:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-10T09:20:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-10T10:30:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-10T12:00:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-10T13:00:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"ggr010123","StartDate":"2023-05-10T14:00:00+02:00","Subject":"Engelsk","Education":"Grafisk teknik.","Room":""},{"Team":"htxb21","StartDate":"2023-05-09T14:15:00+02:00","Subject":"\u00c5ben studiecaf\u00e9","Education":"HTX","Room":"F220"},{"Team":"htxb21","StartDate":"2023-05-09T15:20:00+02:00","Subject":"\u00c5ben studiecaf\u00e9","Education":"HTX","Room":"F220"},{"Team":"h3gr040123","StartDate":"2023-05-08T08:15:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-08T13:00:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-09T13:00:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-09T14:00:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-10T08:15:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-10T09:20:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-10T10:30:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-10T12:00:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-10T13:00:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"h3gr040123","StartDate":"2023-05-10T14:00:00+02:00","Subject":"Teknologi","Education":"Grafisk teknik.","Room":"N112b"},{"Team":"gmg010123","StartDate":"2023-05-08T08:15:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-08T13:00:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-10T08:15:00+02:00","Subject":"Design","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-09T13:00:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-09T14:00:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-10T09:20:00+02:00","Subject":"Design","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-10T10:30:00+02:00","Subject":"Design","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-10T12:00:00+02:00","Subject":"Design","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-10T13:00:00+02:00","Subject":"Design","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"gmg010123","StartDate":"2023-05-10T14:00:00+02:00","Subject":"Design","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"h3mg040123","StartDate":"2023-05-10T08:15:00+02:00","Subject":"komm formidl ll","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-10T09:20:00+02:00","Subject":"komm formidl ll","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-10T10:30:00+02:00","Subject":"komm formidl ll","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-10T12:00:00+02:00","Subject":"komm formidl ll","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-10T13:00:00+02:00","Subject":"komm formidl ll","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-10T14:00:00+02:00","Subject":"komm formidl ll","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-08T08:15:00+02:00","Subject":"markedsf brand","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-08T09:20:00+02:00","Subject":"markedsf brand","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-08T10:30:00+02:00","Subject":"markedsf brand","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-08T12:00:00+02:00","Subject":"markedsf brand","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-08T13:00:00+02:00","Subject":"markedsf brand","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Valgfag","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Valgfag","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Valgfag","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Valgfag","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-09T13:00:00+02:00","Subject":"Valgfag","Education":"Mediegrafiker","Room":"P015"},{"Team":"h3mg040123","StartDate":"2023-05-09T14:00:00+02:00","Subject":"Valgfag","Education":"Mediegrafiker","Room":"P015"},{"Team":"gwe010123","StartDate":"2023-05-08T08:15:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-08T13:00:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-09T13:00:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-09T14:00:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-10T08:15:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-10T09:20:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-10T10:30:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-10T12:00:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-10T13:00:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"gwe010123","StartDate":"2023-05-10T14:00:00+02:00","Subject":"Uddannelsesspec","Education":"Webudvikler","Room":"P024"},{"Team":"h0mg010123f","StartDate":"2023-05-08T08:15:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-10T08:15:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-10T09:20:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-10T10:30:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-10T12:00:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-08T08:00:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-09T08:00:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-10T08:00:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-10T09:20:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-10T10:30:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h0gr010123f","StartDate":"2023-05-10T12:00:00+02:00","Subject":"Praktik","Education":"Grafisk teknik.","Room":""},{"Team":"h1we080122","StartDate":"2023-05-08T08:15:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-08T13:00:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-09T13:00:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"h1we080122","StartDate":"2023-05-09T14:00:00+02:00","Subject":"Programmering","Education":"Webudvikler","Room":"P026"},{"Team":"htxb21","StartDate":"2023-05-08T08:15:00+02:00","Subject":"Engelsk","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Engelsk","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-10T09:20:00+02:00","Subject":"Engelsk","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-10T10:30:00+02:00","Subject":"Engelsk","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-08T13:10:00+02:00","Subject":"Kemi","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-08T14:15:00+02:00","Subject":"Kemi","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-10T12:00:00+02:00","Subject":"Kemi","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-10T13:10:00+02:00","Subject":"Kemi","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Komm. og it","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Komm. og it","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Komm. og it","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Id\u00e9historie","Education":"HTX","Room":"F338"},{"Team":"htxb21","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Id\u00e9historie","Education":"HTX","Room":"F338"},{"Team":"htxb21","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Programmering","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-09T13:10:00+02:00","Subject":"Programmering","Education":"HTX","Room":"F235"},{"Team":"htxb21","StartDate":"2023-05-10T08:15:00+02:00","Subject":"Dansk","Education":"HTX","Room":"F235"},{"Team":"h1we080122","StartDate":"2023-05-10T08:15:00+02:00","Subject":"matematik","Education":"Webudvikler","Room":"P025"},{"Team":"h1we080122","StartDate":"2023-05-10T09:20:00+02:00","Subject":"matematik","Education":"Webudvikler","Room":"P025"},{"Team":"h1we080122","StartDate":"2023-05-10T10:30:00+02:00","Subject":"matematik","Education":"Webudvikler","Room":"P025"},{"Team":"h1we080122","StartDate":"2023-05-10T12:00:00+02:00","Subject":"matematik","Education":"Webudvikler","Room":"P025"},{"Team":"h1we080122","StartDate":"2023-05-10T13:00:00+02:00","Subject":"matematik","Education":"Webudvikler","Room":"P025"},{"Team":"h1we080122","StartDate":"2023-05-10T14:00:00+02:00","Subject":"matematik","Education":"Webudvikler","Room":"P025"},{"Team":"h0mg010123f","StartDate":"2023-05-08T13:00:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-08T14:00:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-09T13:00:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-09T14:00:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-10T13:00:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h0mg010123f","StartDate":"2023-05-10T14:00:00+02:00","Subject":"Praktik","Education":"Mediegrafiker","Room":""},{"Team":"h1we010223","StartDate":"2023-05-08T08:15:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-08T13:00:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-09T13:00:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"h1we010223","StartDate":"2023-05-09T14:00:00+02:00","Subject":"Praktisk web","Education":"Webudvikler","Room":"P025"},{"Team":"gmg010123","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Mediegrafiker","Education":"Mediegrafiker","Room":"P027-4"},{"Team":"kwe050123","StartDate":"2023-05-08T08:15:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-08T09:20:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-08T10:30:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-08T12:00:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-08T13:00:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-09T08:15:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-09T09:20:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-09T10:30:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-09T12:00:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-09T13:00:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-10T08:15:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-10T09:20:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-10T10:30:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-10T12:00:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"},{"Team":"kwe050123","StartDate":"2023-05-10T13:00:00+02:00","Subject":"Praktik","Education":"FGU med EUD","Room":"N120"}]}
+{
+  "value": [
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-08T13:00:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-08T14:00:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-09T13:00:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-09T14:00:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-10T08:15:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-10T13:00:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "ggr010123",
+      "StartDate": "2023-05-10T14:00:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-09T14:15:00+02:00",
+      "Subject": "\u00c5ben studiecaf\u00e9",
+      "Education": "HTX",
+      "Room": "F220"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-09T15:20:00+02:00",
+      "Subject": "\u00c5ben studiecaf\u00e9",
+      "Education": "HTX",
+      "Room": "F220"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-08T13:00:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-09T13:00:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-09T14:00:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-10T08:15:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-10T13:00:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "h3gr040123",
+      "StartDate": "2023-05-10T14:00:00+02:00",
+      "Subject": "Teknologi",
+      "Education": "Grafisk teknik.",
+      "Room": "N112b"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-08T13:00:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-10T08:15:00+02:00",
+      "Subject": "Design",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-09T13:00:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-09T14:00:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "Design",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "Design",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "Design",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-10T13:00:00+02:00",
+      "Subject": "Design",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-10T14:00:00+02:00",
+      "Subject": "Design",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-10T08:15:00+02:00",
+      "Subject": "komm formidl ll",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "komm formidl ll",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "komm formidl ll",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "komm formidl ll",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-10T13:00:00+02:00",
+      "Subject": "komm formidl ll",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-10T14:00:00+02:00",
+      "Subject": "komm formidl ll",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "markedsf brand",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "markedsf brand",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "markedsf brand",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "markedsf brand",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-08T13:00:00+02:00",
+      "Subject": "markedsf brand",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Valgfag",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Valgfag",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Valgfag",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Valgfag",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-09T13:00:00+02:00",
+      "Subject": "Valgfag",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "h3mg040123",
+      "StartDate": "2023-05-09T14:00:00+02:00",
+      "Subject": "Valgfag",
+      "Education": "Mediegrafiker",
+      "Room": "P015"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-08T13:00:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-09T13:00:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-09T14:00:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-10T08:15:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-10T13:00:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "gwe010123",
+      "StartDate": "2023-05-10T14:00:00+02:00",
+      "Subject": "Uddannelsesspec",
+      "Education": "Webudvikler",
+      "Room": "P024"
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-10T08:15:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-08T08:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-09T08:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-10T08:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h0gr010123f",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Grafisk teknik.",
+      "Room": ""
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-08T13:00:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-09T13:00:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-09T14:00:00+02:00",
+      "Subject": "Programmering",
+      "Education": "Webudvikler",
+      "Room": "P026"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "Engelsk",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-08T13:10:00+02:00",
+      "Subject": "Kemi",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-08T14:15:00+02:00",
+      "Subject": "Kemi",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "Kemi",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-10T13:10:00+02:00",
+      "Subject": "Kemi",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Komm. og it",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Komm. og it",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Komm. og it",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Id\u00e9historie",
+      "Education": "HTX",
+      "Room": "F338"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Id\u00e9historie",
+      "Education": "HTX",
+      "Room": "F338"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Programmering",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-09T13:10:00+02:00",
+      "Subject": "Programmering",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "htxb21",
+      "StartDate": "2023-05-10T08:15:00+02:00",
+      "Subject": "Dansk",
+      "Education": "HTX",
+      "Room": "F235"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-10T08:15:00+02:00",
+      "Subject": "matematik",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "matematik",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "matematik",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "matematik",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-10T13:00:00+02:00",
+      "Subject": "matematik",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we080122",
+      "StartDate": "2023-05-10T14:00:00+02:00",
+      "Subject": "matematik",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-08T13:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-08T14:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-09T13:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-09T14:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-10T13:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h0mg010123f",
+      "StartDate": "2023-05-10T14:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "Mediegrafiker",
+      "Room": ""
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-08T13:00:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-09T13:00:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "h1we010223",
+      "StartDate": "2023-05-09T14:00:00+02:00",
+      "Subject": "Praktisk web",
+      "Education": "Webudvikler",
+      "Room": "P025"
+    },
+    {
+      "Team": "gmg010123",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Mediegrafiker",
+      "Education": "Mediegrafiker",
+      "Room": "P027-4"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-08T08:15:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-08T09:20:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-08T10:30:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-08T12:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-08T13:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-09T08:15:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-09T09:20:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-09T10:30:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-09T12:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-09T13:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-10T08:15:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-10T09:20:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-10T10:30:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-10T12:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    },
+    {
+      "Team": "kwe050123",
+      "StartDate": "2023-05-10T13:00:00+02:00",
+      "Subject": "Praktik",
+      "Education": "FGU med EUD",
+      "Room": "N120"
+    }
+  ]
+}
