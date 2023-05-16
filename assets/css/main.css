@@ -25,21 +25,21 @@
     height: 100%;
 }
 #div1 {
-    background-color: #BADB6D; 
+    /* background-color: #BADB6D;  */
     grid-row-start: 1;
     grid-column-start: 1;
     grid-row-end: 1;
     grid-column-end: 5;
 }
 #div2 {
-    background-color: #795B68; 
+    /* background-color: #795B68;  */
     grid-row-start: 2;
     grid-column-start: 1;
     grid-row-end: 4;
     grid-column-end: 3;
 }
 #div3 {
-    background-color: #799C97; 
+    /* background-color: #799C97;  */
     grid-row-start: 2;
     grid-column-start: 3;
     grid-row-end: 6;
@@ -53,7 +53,7 @@
     grid-column-end: 9;
 }
 #div5 {
-    background-color: #595557; 
+    /* background-color: #595557;  */
     grid-row-start: 4;
     grid-column-start: 1;
     grid-row-end: 6;

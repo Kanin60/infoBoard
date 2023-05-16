@@ -25,35 +25,24 @@ const busApi = "https://xmlopen.rejseplanen.dk/bin/rest.exe/multiDepartureBoard?
 function buildBusData(data){
     // console.log("Her er busdataen", data);
 
-    const setApiDate = (addDays = 0) => {
-        let curDate = addDays
-            ? new Date(new Date().getTime() + addDays * 86400 * 1000)
-            : new Date()
-        let strYear = curDate.getFullYear()
-        let strMonth = (curDate.getMonth() + 1).toString().padStart(2, 0)
-        let strDate = curDate.getDate().toString().padStart(2, 0)
-        return `${strYear}-${strMonth}-${strDate}`
-    }
-    // console.log(setApiDate);
-
-
-
-    ; (async () => {
+    // immediately invoked function expressions(IIFE) - self invoked anonym function 
+    ( () => {
         // console.log("busdata modtaget",{data});
 
-        let dataFive = data.splice(0,6);
+        let dataFive = data.splice(0,5);
         // console.log('her er five',dataFive);
 
+        //finder elementet i dom
         const busDataContainer = document.getElementById('busDataContainer');
 
+        //I denne forEach bliver der lavet en paragraf for hvert af opbjekterne i array'et, som indeholder bus, direction og afgang
         dataFive.forEach(bus => {
-            const busName = bus.name.replace(/^Bybus\s/, '');
+            const busName = bus.name.replace(/^Bybus\s/, ''); //Sletter bybus ved hjælp af replace og regular expression
             const direction = bus.direction;
             const time = bus.time;
             const busDataParagraph = document.createElement('p');
-            // busDataParagraph.classList.add('busText');
+
             busDataParagraph.textContent = `${busName} ${direction} ${time}`;
-        
             busDataContainer.appendChild(busDataParagraph);
         });
     }
