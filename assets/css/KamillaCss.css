@@ -10,6 +10,14 @@
 :root{
     --darkGray: #3a3a3a;
 }
+#main{
+    position: relative;
+}
+#mainImg{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+}
 #div1{
     position: relative;
 }
@@ -29,13 +37,14 @@
 #div2img1{
     position: absolute;
     z-index: -1;
-    width: 95%;
-}
-#div2img2{
     width: 60%;
 }
+#div2img2{
+    margin-top: 5px;
+    width: 40%;
+}
 #div2 h2{
-    margin-top: 3rem;
+    margin-top: 2.5rem;
     margin-bottom: 2rem;
     margin-left: 1rem;
     font-family: vcr;
@@ -48,24 +57,63 @@
     font-size: 2em;
 }
 /*SKEMA*/
+#div3{
+    position: relative;
 
+}
+#div3 div{
+    font-family: vcr;
+    margin-top: 3rem;
+    margin-left: 1%;
+}
 #div3img1{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+#div3img2{
+    width: 30%;
+}
+/*Kantine*/
+#div4{
+    position: relative;
+}
+#div4 h2{
+    font-family: vcr;
+    margin-left: 8rem;
+    margin-top: 6rem;
+}
+#div4 p{
+    font-family: vcr;
+    margin-left: 8rem;
+    margin-top: 1rem;
+}
+#div4img1{
+    position: absolute;
+    z-index: -1;
     width: 100%;
 }
 /*Container til bustider*/
 #div5{
-    background-image: url(../images/InfoskærmLayout/BustiderContainer/Container/BUSTIDER@2x.png);
+    /* background-image: url(../images/InfoskærmLayout/BustiderContainer/Container/BUSTIDER@2x.png);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
     height: 160%;
     position: relative;
+}
+#div5img1{
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    z-index: -1;
 }
 /*Overskriften til bustider*/
 #bus{
     font-family: "vcr";
     font-weight: 300;
     font-size: 2.5em;
-    margin-top: 3%;
+    margin-top:5px;
     margin-left: 5%;
 }
 /*Teksten til bus tiderne*/
@@ -78,6 +126,19 @@
 /*Billedet af bussen*/
 #Bussen{
     position: absolute;
-    top: 73%;
+    top: 63%;
     width: 23%;
+}
+/*WIFI*/
+#div6{
+    position: relative;
+}
+#div6 h3{
+    font-family: "vrc";
+} 
+#div6 p{
+    font-family: "vrc";
+}
+#div6img1{
+    width: 100%;
 }

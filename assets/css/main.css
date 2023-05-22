@@ -46,7 +46,7 @@
     grid-column-end: 6;
 }
 #div4 {
-    background-color: #8B5577; 
+    /* background-color: #8B5577;  */
     grid-row-start: 2;
     grid-column-start: 6;
     grid-row-end: 4;
@@ -60,7 +60,7 @@
     grid-column-end: 3;
 }
 #div6 {
-    background-color: #FCBF7D; 
+    /* background-color: #FCBF7D;  */
     grid-row-start: 4;
     grid-column-start: 6;
     grid-row-end: 6;
