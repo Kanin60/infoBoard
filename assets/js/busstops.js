@@ -1,6 +1,6 @@
 busDepartureFetch();
 
-function busDepartureFetch(){
+export function busDepartureFetch(){
 const busApi = "https://xmlopen.rejseplanen.dk/bin/rest.exe/multiDepartureBoard?id1=851400602&id2=851973402&rttime&format=json&useBus=1";
 //"../../_localeAPI/multiDepartureBoard.json" //JSON_FIL til TEST 
     // console.log(busApi);
@@ -22,7 +22,7 @@ const busApi = "https://xmlopen.rejseplanen.dk/bin/rest.exe/multiDepartureBoard?
 }
 
 
-function buildBusData(data){
+export function buildBusData(data){
     // console.log("Her er busdataen", data);
 
     // immediately invoked function expressions(IIFE) - self invoked anonym function 

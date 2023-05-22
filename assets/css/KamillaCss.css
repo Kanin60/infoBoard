@@ -20,6 +20,7 @@
 }
 #div1{
     position: relative;
+    border: 4px solid rgb(0, 255, 38);
 }
 #div1img{
     width: 100%;
@@ -33,33 +34,43 @@
 /*UR og DATO*/
 #div2{
     position: relative;
+    border: 4px solid rgb(0, 255, 38);
 }
 #div2img1{
     position: absolute;
     z-index: -1;
-    width: 60%;
+    width: 100%;
 }
 #div2img2{
-    margin-top: 5px;
-    width: 40%;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 50%;
 }
 #div2 h2{
-    margin-top: 2.5rem;
-    margin-bottom: 2rem;
-    margin-left: 1rem;
+    margin-top: 1em;
+    /* margin-left: 1em; */
+    text-align: center;
     font-family: vcr;
     font-size: 2.5em;
+    text-transform: uppercase;
 }
-#div2 h3{
-    margin-left: 1rem;
-    margin-bottom: 1rem;
+#time {
+    font-family: vcr;
+    font-size: 5em;
+    /* margin-left: 1rem; */
+    text-align: center;
+}
+#date {
+    /* margin-left: 1em; */
+    text-align: center;
+    margin-bottom: 1em;
     font-family: vcr;
     font-size: 2em;
 }
 /*SKEMA*/
 #div3{
     position: relative;
-
+    border: 4px solid rgb(0, 255, 38);
 }
 #div3 div{
     font-family: vcr;
@@ -78,6 +89,8 @@
 /*Kantine*/
 #div4{
     position: relative;
+    border: 4px solid rgb(0, 255, 38);
+
 }
 #div4 h2{
     font-family: vcr;
@@ -96,9 +109,7 @@
 }
 /*Container til bustider*/
 #div5{
-    /* background-image: url(../images/InfoskærmLayout/BustiderContainer/Container/BUSTIDER@2x.png);
-    background-size: cover;
-    background-repeat: no-repeat; */
+    border: 4px solid rgb(0, 255, 38);
     height: 160%;
     position: relative;
 }
@@ -132,6 +143,8 @@
 /*WIFI*/
 #div6{
     position: relative;
+    border: 4px solid rgb(0, 255, 38);
+
 }
 #div6 h3{
     font-family: "vrc";
@@ -140,5 +153,13 @@
     font-family: "vrc";
 }
 #div6img1{
+    width: 100%;
+}
+
+/*FOOTER */
+footer{
+    border: 4px solid rgb(0, 255, 38);
+}
+footer img{
     width: 100%;
 }

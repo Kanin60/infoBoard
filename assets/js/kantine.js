@@ -1,6 +1,6 @@
-kantineFetch();
 
-function kantineFetch(){
+
+export function kantineFetch(){
 const kantineApi = "https://infoskaerm.techcollege.dk/umbraco/api/content/getcanteenmenu/?type=json";
 
     fetch(kantineApi).then(
